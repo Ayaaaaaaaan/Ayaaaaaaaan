@@ -11,13 +11,12 @@
 
 ### 🤝 Connect with Me
 
-<a href="https://linkedin.com/in/rajat-chaudhari"><img align="left" alt="LinkedIn" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px;padding-right:10px;" ></a>
+<a href="https://www.linkedin.com/in/ayaan-ahmed-ansari-84b7b41b9/"><img align="left" alt="LinkedIn" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px;padding-right:10px;" ></a>
 
-<a href="mailto:kimeon836@gmail.com"><img align="left" alt="Email" width="35px" src="./.github/gmail.png" style="padding-right:10px;" ></a>
+<a href="mailto:ayaan99aa@gmail.com"><img align="left" alt="Email" width="35px" src="./.github/gmail.png" style="padding-right:10px;" ></a>
 
-<a href="https://codechef.com/users/kimeon"><img align="left" alt="CodeChef" width="30px" src="./.github/codechef.png" ></a>
 
-<a href="https://leetcode.com/kimeon836"><img align="left" alt="Leetcode" width="35px" src="./.github/leetcode.svg"></a>
+<a href="https://leetcode.com/Ayaaaaan/"><img align="left" alt="Leetcode" width="35px" src="./.github/leetcode.svg"></a>
 
 <br/>
 <br/>
@@ -28,7 +27,6 @@
 <li>
 <!-- languages -->
 
-<a href="https://www.python.org"><img align="left" alt="Python" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" style="padding-right:10px;" ></a>
 
 <a href="https://www.javascript.com/"><img align="left" alt="JavaScript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" ></a>
 
@@ -65,9 +63,9 @@
 
 ### :zap: Stats
 
-<img alt="Kimeon's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kimeon836&show_icons=true&hide=prs,contribs" />
+<img alt="Ayaan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ayaaaaaaaan&show_icons=true&hide=prs,contribs" />
 
-<a href="https://leetcode.com/kimeon836"><img alt="Leetcode Stats" src="https://leetcard.jacoblin.cool/Kimeon836?cache=0&hide=ranking&ext=contest" /></a>
+<a href="https://leetcode.com/Ayaaaaan/"><img alt="Leetcode Stats" src="https://leetcard.jacoblin.cool/Ayaaaaan?cache=0&hide=ranking&ext=contest" /></a>
 
 
 </details>
