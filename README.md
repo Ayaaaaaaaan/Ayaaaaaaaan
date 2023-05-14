@@ -1,4 +1,4 @@
-<img src="./.github/banner.png" />
+<img src="./.github/ayaan.png.png" />
 
 ## I'm a Programmer and Student!
 
