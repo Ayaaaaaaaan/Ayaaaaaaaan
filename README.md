@@ -1,5 +1,6 @@
 
-![Project](https://github.com/Ayaaaaaaaan/Ayaaaaaaaan/assets/97623532/92371bae-8b15-4714-b45e-6287f5d36285)
+![Project (1)](https://github.com/Ayaaaaaaaan/Ayaaaaaaaan/assets/97623532/729f9bfe-f9ea-4295-b3c6-02c23ed660d5)
+
 
 
 ## I'm a Programmer and Student!
