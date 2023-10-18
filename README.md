@@ -1,4 +1,6 @@
-<img src="./.github/ayaan.png.png" width="500" height="500" />
+
+![Project](https://github.com/Ayaaaaaaaan/Ayaaaaaaaan/assets/97623532/92371bae-8b15-4714-b45e-6287f5d36285)
+
 
 ## I'm a Programmer and Student!
 
